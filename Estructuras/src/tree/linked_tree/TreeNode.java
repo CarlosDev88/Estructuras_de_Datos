@@ -10,6 +10,21 @@ public class TreeNode<E> implements Position<E>{
 	private E elemento;
 	private List<TreeNode<E>> hijos;
 	
+	public TreeNode() {
+		
+	}
+	
+	
+	
+	public TreeNode(TreeNode<E> padre, E elemento, List<TreeNode<E>> hijos) {
+		
+		this.padre = padre;
+		this.elemento = elemento;
+		this.hijos = hijos;
+	}
+
+
+
 	@Override
 	public E element() {
 		

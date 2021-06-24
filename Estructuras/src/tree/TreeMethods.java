@@ -9,7 +9,7 @@ public interface TreeMethods<E> {
 
 	Iterator iterator();
 
-	Iterator positions();
+	Iterable positions();
 
 	Position<E> root();
 
