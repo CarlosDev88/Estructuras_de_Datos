@@ -1,0 +1,10 @@
+ISBN: -393-886-746-9 ,Autor:: ArdilaCharrasqueado, Titulo: amorlosamargura, Valor: 79,4$
+ISBN: -931-307-904-2 ,Autor:: ArdilaJuan, Titulo: corazonlostiempo, Valor: 14,6$
+ISBN: -363-099-149-2 ,Autor:: ArdilaJuan, Titulo: pezlasalvaje, Valor: 59,4$
+ISBN: -245-863-819-6 ,Autor:: PepeCharrasqueado, Titulo: llanuralatraicion, Valor: 21,5$
+ISBN: -503-106-083-4 ,Autor:: ArdilaCharrasqueado, Titulo: amorlaperros, Valor: 70,6$
+ISBN: -290-040-241-3 ,Autor:: ArdilaCharrasqueado, Titulo: ballenadetraicion, Valor: 01,8$
+ISBN: -932-656-275-4 ,Autor:: ArdilaJuan, Titulo: marsinamargura, Valor: 32,7$
+ISBN: -625-021-566-9 ,Autor:: PepeCharrasqueado, Titulo: llanuralasapacionado, Valor: 20,6$
+ISBN: -971-442-992-1 ,Autor:: PepeJuan, Titulo: lunaconsalvaje, Valor: 10,4$
+ISBN: -581-303-475-9 ,Autor:: ArdilaCharrasqueado, Titulo: corazonlosrabia, Valor: 68,3$
