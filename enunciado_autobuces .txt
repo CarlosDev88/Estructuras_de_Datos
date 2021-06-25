@@ -1,0 +1,6 @@
+Enunciado:
+•	Se va a proceder a llevar todas las entradas y salidas efectuadas de los autobuses pertenecientes a le empresa
+•	Cada autobús tiene la información de los viajeros, no se posee la información de estos hasta que reserven un billete.
+•	Se tiene que poder recibir de forma eficiente la información de todos los autobuses que salgan del mismo destino o lleguen al mismo destino
+•	Se debe poder interceptar rápidamente a un pasajero que se dirija a un destino
+•	También se quiere conocer la duración de todos los trayectos que realizan los autobuses para reabastecerlos.
