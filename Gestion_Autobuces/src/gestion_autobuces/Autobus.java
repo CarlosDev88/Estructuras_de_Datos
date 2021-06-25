@@ -1,5 +1,7 @@
 package gestion_autobuces;
 
+import java.util.Arrays;
+
 public class Autobus {
 	private String origen;
 	private String destino;
@@ -49,5 +51,13 @@ public class Autobus {
 	public void setPasajeros(Pasajero[] pasajeros) {
 		this.pasajeros = pasajeros;
 	}
+
+	@Override
+	public String toString() {
+		return "Autobus [origen=" + origen + ", destino=" + destino + ", duracion=" + duracion + ", pasajeros="
+				+ Arrays.toString(pasajeros) + "]";
+	}
+	
+	
 
 }

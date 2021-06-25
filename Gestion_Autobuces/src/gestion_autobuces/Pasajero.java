@@ -28,8 +28,12 @@ public class Pasajero {
 	public void setApellido(String apellido) {
 		this.apellido = apellido;
 	}
+
+	@Override
+	public String toString() {
+		return "Pasajero [nombre=" + nombre + ", apellido=" + apellido + "]";
+	}
 	
-	
-	
+		
 	
 }
